@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  gap: 15px;
+  margin-left: auto;
+}
+
+.welcome {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.user {
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: #000074;
+}
+
+p {
+  margin: 0;
+  font-size: 20px;
+  align-content: center;
+}
+
+button {
+  margin: 0 auto;
+  font-size: 18px;
+  padding: 10px;
+  cursor: pointer;
+}
